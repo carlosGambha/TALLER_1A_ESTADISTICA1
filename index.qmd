@@ -65,49 +65,49 @@ body {
 
 ## Línea de tiempo de la historia de la estadística
 
-**3000 a.C. – 500 a.C. Civilizaciones antiguas**\
+**3000 a.C. – 500 a.C. Civilizaciones antiguas**
 En Egipto, Babilonia y China se realizaban censos y registros de población, tierras, cosechas e impuestos. La estadística nace como una herramienta de organización del Estado.
 
-**27 a.C. – 476 d.C. Imperio Romano**\
+**27 a.C. – 476 d.C. Imperio Romano**
 El Imperio Romano perfeccionó los censos para fines militares, fiscales y administrativos. Se usaba para saber cuántos habitantes había y qué recursos tenía el imperio.
 
-**Siglos V – XV Edad Media**\
+**Edad Media**
 La Iglesia y los reinos europeos registraban nacimientos, matrimonios y defunciones. Estos registros permitieron llevar un control más ordenado de la población.
 
-**1662 John Graunt**\
+**1662 John Graunt**
 John Graunt analizó los registros de mortalidad de Londres. Publicó las primeras tablas de mortalidad. Es considerado uno de los primeros en usar datos para sacar conclusiones.
 
-**Siglo XVII William Petty**\
+**Siglo XVII William Petty**
 William Petty desarrolló la “aritmética política”. Aplicó números y cálculos al estudio del Estado y la economía.
 
-**1654 Pascal y Fermat**\
+**1654 Pascal y Fermat**
 Blaise Pascal y Pierre de Fermat estudiaron problemas de juegos de azar. Sentaron las bases de la teoría de la probabilidad.
 
-**1713 Jacob Bernoulli**\
+**1713 Jacob Bernoulli**
 Jacob Bernoulli formuló la Ley de los Grandes Números. Demostró que, al aumentar los datos, los resultados se vuelven más precisos.
 
-**1812 Pierre-Simon Laplace**\
+**1812 Pierre-Simon Laplace**
 Pierre-Simon Laplace consolidó la teoría de probabilidades. Dio base matemática a la estadística moderna.
 
-**Siglo XIX Adolphe Quetelet**\
+**Siglo XIX Adolphe Quetelet**
 Adolphe Quetelet aplicó la estadística al estudio de la sociedad. Introdujo el concepto de “hombre promedio”.
 
-**Siglo XIX Carl Friedrich Gauss**\
+**Siglo XIX Carl Friedrich Gauss**
 Carl Friedrich Gauss desarrolló la distribución normal o “campana de Gauss”. Fundamental para el análisis estadístico.
 
-**Finales del siglo XIX Francis Galton**\
+**Finales del siglo XIX Francis Galton**
 Francis Galton introdujo los conceptos de correlación y regresión. Bases del análisis de relaciones entre variables.
 
-**Siglo XX Karl Pearson**\
+**Siglo XX Karl Pearson**
 Karl Pearson formalizó métodos estadísticos y el coeficiente de correlación. Impulsó la estadística matemática.
 
-**Siglo XX Ronald Fisher**\
+**Siglo XX Ronald Fisher**
 Ronald Fisher revolucionó la estadística con el diseño experimental, la inferencia estadística y el análisis de varianza (ANOVA).
 
-**Siglo XX Estadística moderna**\
+**Siglo XX Estadística moderna**
 Se desarrollan pruebas de hipótesis, muestreo y estimación. La estadística se vuelve esencial en medicina, economía, psicología y ciencias sociales.
 
-**Siglo XXI Big Data y ciencia de datos**\
+**Siglo XXI Big Data y ciencia de datos**
 La estadística se integra con informática, inteligencia artificial y aprendizaje automático. Se usa para analizar grandes volúmenes de datos y apoyar decisiones en tiempo real.
 
 ![](images/clipboard-230049845.png)
@@ -130,8 +130,8 @@ Es la unidad básica de información con la que trabaja la estadística.
 
 **Ejemplos:**
 
--   Edad de una persona\
--   Salario de un trabajador\
+-   Edad de una persona
+-   Salario de un trabajador
 -   Color de un vehículo
 
 **Estadística descriptiva**
@@ -184,7 +184,7 @@ Una variable es una característica de los elementos de estudio que puede cambia
 
 ## Tipos de variables
 
-**Cualitativa:** expresa cualidades o categorías.\
+**Cualitativa:** expresa cualidades o categorías.
 **Cuantitativa:** expresa cantidades numéricas.
 
 ## Variable cualitativa
@@ -193,13 +193,13 @@ Son variables que describen cualidades o atributos y no se expresan con números
 
 **Ejemplos:**
 
--   Estado civil\
--   Color de ojos\
+-   Estado civil
+-   Color de ojos
 -   Profesión
 
 ### Tipos
 
--   **Nominal:** no tiene orden.\
+-   **Nominal:** no tiene orden.
 -   **Ordinal:** tiene un orden o jerarquía.
 
 ## Variable cuantitativa
@@ -208,8 +208,8 @@ Son variables que representan cantidades y se expresan numéricamente.
 
 **Ejemplos:**
 
--   Edad\
--   Ingreso mensual\
+-   Edad
+-   Ingreso mensual
 -   Número de hijos
 
 ### Tipos
@@ -223,7 +223,7 @@ Un parámetro es una medida numérica que describe una característica de la pob
 
 **Ejemplos:**
 
--   Media poblacional\
+-   Media poblacional
 -   Proporción poblacional
 
 ## Estadístico
@@ -234,7 +234,7 @@ Se utiliza para estimar parámetros de la población.
 
 **Ejemplos:**
 
--   Media muestral\
+-   Media muestral
 -   Proporción muestral
 
 ## Frecuencia
@@ -259,8 +259,8 @@ Son valores que representan el centro de un conjunto de datos.
 
 ### Principales medidas
 
--   **Media:** promedio de los datos.\
--   **Mediana:** valor central.\
+-   **Media:** promedio de los datos.
+-   **Mediana:** valor central.
 -   **Moda:** valor más frecuente.
 
 ## Medidas de dispersión
@@ -269,8 +269,8 @@ Indican qué tan separados o dispersos están los datos respecto a un valor cent
 
 ### Principales medidas
 
--   **Rango**\
--   **Varianza**\
+-   **Rango**
+-   **Varianza**
 -   **Desviación estándar**
 
 ## Probabilidad
